@@ -1,0 +1,15 @@
+D:\Кирилл\Универ\Крипта\3\Crypto_Lab03\VegenerChipher\bin\Debug\VegenerChipher.exe.config
+D:\Кирилл\Универ\Крипта\3\Crypto_Lab03\VegenerChipher\bin\Debug\VegenerChipher.exe
+D:\Кирилл\Универ\Крипта\3\Crypto_Lab03\VegenerChipher\bin\Debug\VegenerChipher.pdb
+D:\Кирилл\Универ\Крипта\3\Crypto_Lab03\VegenerChipher\obj\Debug\MainWindow.g.cs
+D:\Кирилл\Универ\Крипта\3\Crypto_Lab03\VegenerChipher\obj\Debug\App.g.cs
+D:\Кирилл\Универ\Крипта\3\Crypto_Lab03\VegenerChipher\obj\Debug\VegenerChipher_MarkupCompile.cache
+D:\Кирилл\Универ\Крипта\3\Crypto_Lab03\VegenerChipher\obj\Debug\VegenerChipher_MarkupCompile.lref
+D:\Кирилл\Универ\Крипта\3\Crypto_Lab03\VegenerChipher\obj\Debug\MainWindow.baml
+D:\Кирилл\Универ\Крипта\3\Crypto_Lab03\VegenerChipher\obj\Debug\VegenerChipher.g.resources
+D:\Кирилл\Универ\Крипта\3\Crypto_Lab03\VegenerChipher\obj\Debug\VegenerChipher.Properties.Resources.resources
+D:\Кирилл\Универ\Крипта\3\Crypto_Lab03\VegenerChipher\obj\Debug\VegenerChipher.csproj.GenerateResource.cache
+D:\Кирилл\Универ\Крипта\3\Crypto_Lab03\VegenerChipher\obj\Debug\VegenerChipher.csproj.CoreCompileInputs.cache
+D:\Кирилл\Универ\Крипта\3\Crypto_Lab03\VegenerChipher\obj\Debug\VegenerChipher.exe
+D:\Кирилл\Универ\Крипта\3\Crypto_Lab03\VegenerChipher\obj\Debug\VegenerChipher.pdb
+D:\Кирилл\Универ\Крипта\3\Crypto_Lab03\VegenerChipher\obj\Debug\VegenerChipher.csprojAssemblyReference.cache

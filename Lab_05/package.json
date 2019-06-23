@@ -1,0 +1,19 @@
+{
+  "name": "cmoiplab_05",
+  "version": "1.0.0",
+  "description": "The fifth laboratory work on Cryptographic Methods of Information Protection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Egwinn/CMoIPLab_05.git"
+  },
+  "author": "Egwinn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Egwinn/CMoIPLab_05/issues"
+  },
+  "homepage": "https://github.com/Egwinn/CMoIPLab_05#readme"
+}

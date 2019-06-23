@@ -1,0 +1,10 @@
+D:\Кирилл\Универ\Крипта\Crypto_Lab03\Crypto_Lab03\bin\Debug\Crypto_Lab03.exe.config
+D:\Кирилл\Универ\Крипта\Crypto_Lab03\Crypto_Lab03\bin\Debug\Crypto_Lab03.exe
+D:\Кирилл\Универ\Крипта\Crypto_Lab03\Crypto_Lab03\bin\Debug\Crypto_Lab03.pdb
+D:\Кирилл\Универ\Крипта\Crypto_Lab03\Crypto_Lab03\obj\Debug\CaesarChipher.csprojAssemblyReference.cache
+D:\Кирилл\Универ\Крипта\Crypto_Lab03\Crypto_Lab03\obj\Debug\Crypto_Lab03.Form1.resources
+D:\Кирилл\Универ\Крипта\Crypto_Lab03\Crypto_Lab03\obj\Debug\Crypto_Lab03.Properties.Resources.resources
+D:\Кирилл\Универ\Крипта\Crypto_Lab03\Crypto_Lab03\obj\Debug\CaesarChipher.csproj.GenerateResource.cache
+D:\Кирилл\Универ\Крипта\Crypto_Lab03\Crypto_Lab03\obj\Debug\CaesarChipher.csproj.CoreCompileInputs.cache
+D:\Кирилл\Универ\Крипта\Crypto_Lab03\Crypto_Lab03\obj\Debug\Crypto_Lab03.exe
+D:\Кирилл\Универ\Крипта\Crypto_Lab03\Crypto_Lab03\obj\Debug\Crypto_Lab03.pdb
